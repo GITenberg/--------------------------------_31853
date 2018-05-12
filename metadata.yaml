@@ -1,0 +1,29 @@
+_repo: '--------------------------------_31853'
+_version: 0.1.0
+alternative_title: Poems Second Volume - Unpublished
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Souris, Georgios
+    alias: Σουρής, Γεώργιος
+    birthdate: 1853
+    deathdate: 1919
+    gutenberg_agent_id: '35517'
+    url: http://www.gutenberg.org/2009/agents/35517
+    wikipedia: http://el.wikipedia.org/wiki/%CE%93%CE%B5%CF%8E%CF%81%CE%B3%CE%B9%CE%BF%CF%82_%CE%A3%CE%BF%CF%85%CF%81%CE%AE%CF%82
+description: ''
+gutenberg_issued: '2010-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31853'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greek poetry, Modern'
+title: Ποιήματα, Τόμος Δεύτερος, Ανέκδοτα
+url: http://www.gutenberg.org/ebooks/31853
